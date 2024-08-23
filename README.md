@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fdettori
 - 👀 I’m interested in robotics, AI, technological advancements, personal finance, and sports.
 - 🌱 I’m currently focusing on my Master’s degree in Biomedical Engineering at Politecnico di Milano.
-- 📫 How to reach me: You can contact me via email at francescodettori03@gmail.com or connect with me on my [LinkedIn profile](https://www.codecademy.com/pages/contribute-docs](https://www.linkedin.com/in/dettori-francesco/).
+- 📫 How to reach me: You can contact me via email at francescodettori03@gmail.com or connect with me on my [LinkedIn profile](https://www.linkedin.com/in/dettori-francesco/).
